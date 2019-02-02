@@ -11,11 +11,13 @@ Requirements:
   
   4) Configure the LCD1602 to work with your Raspberry Pi: https://albertherd.com/2019/01/12/connecting-a-lcd1602-with-an-i2c-module-to-your-raspberry-pi-raspberry-pi-temperature-monitoring-part-2/
   
-  4) Learn how to capture readings from your DS18B20 sensor: https://albertherd.com/2019/01/20/using-c-to-monitor-temperatures-through-your-ds18b20-thermal-sensor-raspberry-pi-temperature-monitoring-part-3/
+  5) Learn how to capture readings from your DS18B20 sensor: https://albertherd.com/2019/01/20/using-c-to-monitor-temperatures-through-your-ds18b20-thermal-sensor-raspberry-pi-temperature-monitoring-part-3/
   
-  5) Hard mode! Don't follow step 4 and spend 3 hours trying to figure stuff out :)
+  6) Learn how to output readings to your LCD1602: https://albertherd.com/2019/02/02/outputting-ds18b20-temperatures-on-a-lcd1602-raspberry-pi-temperature-monitoring-part-4/
   
-  6) Clone the repostiory
+  7) Hard mode! Don't follow steps 3-6 and spend hours trying to figure stuff out :)
+  
+  8) Clone the repostiory
   
   7) cmake . && make && ./DS18B20Reader "Sensor"
   
