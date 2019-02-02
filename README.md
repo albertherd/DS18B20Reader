@@ -1,6 +1,5 @@
 # DS18B20Reader - A sample code to read temperature from a DS18B20 sensor and output it to an LCD1602
 
-![DS18B20 Output](ds18b20-tutorial-sample-output.jpg)
 ![LCD1602 Output](LCD1602Output.jpg)
 
 Requirements:
